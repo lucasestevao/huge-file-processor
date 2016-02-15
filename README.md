@@ -9,7 +9,7 @@ I'm still trying to figure it out a way to solve that problem with a fast approa
 
 ## Installation
 
-$ npm install` on server folder
+`$ npm install` on server folder
 
 ## Running
 
