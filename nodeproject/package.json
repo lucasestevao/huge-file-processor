@@ -1,0 +1,15 @@
+{
+  "name": "nodeproject",
+  "version": "1.0.0",
+  "description": "Node project.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Lucas",
+  "license": "ISC",
+  "devDependencies": {
+    "event-stream": "^3.3.2"
+  }
+}
