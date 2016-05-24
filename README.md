@@ -11,12 +11,12 @@ I needed to read a huge file (let's say 10GB), capture which strings (each line 
 
 ## Tech Stack
 
-Node, Event Stream, SQLite.
+Javascript, Node, Event Stream, SQLite, Jasmine.
 
 
 ## Installation
 
-You need to have [node](https://nodejs.org/en/download/) instaled.
+You need to have [node](https://nodejs.org/en/download/) instaled (from 5.7.0).
 
 `$ npm install` on server folder
 
@@ -24,6 +24,11 @@ You need to have [node](https://nodejs.org/en/download/) instaled.
 ## Running
 
 `$ node server` on server folder
+
+
+## Testing
+
+`$ jasmine` on hpf-mergesort folder
 
 
 ## Contributing
