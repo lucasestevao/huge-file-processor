@@ -1,0 +1,19 @@
+{
+  "name": "huge-file-processor",
+  "version": "1.0.0",
+  "description": "Process a file and show the top occurred strings.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Lucas Estevão de Souza",
+  "license": "ISC",
+  "dependencies": {
+    "heap": "^0.2.6",
+    "jasmine": "^2.4.1",
+    "lodash": "^4.3.0",
+    "mkdirp": "^0.5.1"
+  }
+}

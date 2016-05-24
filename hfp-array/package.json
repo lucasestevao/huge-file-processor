@@ -1,0 +1,15 @@
+{
+  "name": "hfp-array",
+  "version": "1.0.0",
+  "description": "Huge File Processor.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Lucas Estevão de Souza",
+  "license": "MIT",
+  "devDependencies": {
+    "event-stream": "^3.3.2"
+  }
+}
